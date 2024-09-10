@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(imagens/fundo-madeira.jpg);
+}
+
+#iphone{
+    height: 800px;
+    margin: auto;
+
+
+}
